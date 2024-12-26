@@ -3,5 +3,5 @@
 One click Astoria installation: 
 
 1. Download WPinternals.
-2. Download Leaked Image from this Link: 
+2. Download Leaked Image from this Link: https://github.com/ReneLergner/WPinternals/releases/latest
 
